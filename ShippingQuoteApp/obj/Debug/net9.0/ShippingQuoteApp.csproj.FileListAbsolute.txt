@@ -1,0 +1,15 @@
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/bin/Debug/net9.0/ShippingQuoteApp
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/bin/Debug/net9.0/ShippingQuoteApp.deps.json
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/bin/Debug/net9.0/ShippingQuoteApp.runtimeconfig.json
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/bin/Debug/net9.0/ShippingQuoteApp.dll
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/bin/Debug/net9.0/ShippingQuoteApp.pdb
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.AssemblyInfoInputs.cache
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.AssemblyInfo.cs
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.csproj.CoreCompileInputs.cache
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.sourcelink.json
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.dll
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/refint/ShippingQuoteApp.dll
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.pdb
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ShippingQuoteApp.genruntimeconfig.cache
+/Users/edwintsafack/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ShippingQuoteApp/obj/Debug/net9.0/ref/ShippingQuoteApp.dll
