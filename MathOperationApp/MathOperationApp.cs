@@ -4,7 +4,7 @@ namespace MathOperationApp
 {
     // Step 1: Create a class that contains our method
     public class MathProcessor
-    {
+    { 
         // Void method that takes two integers as parameters
         // Performs a math operation on the first integer and displays the second integer
         public void ProcessNumbers(int firstNumber, int secondNumber)
