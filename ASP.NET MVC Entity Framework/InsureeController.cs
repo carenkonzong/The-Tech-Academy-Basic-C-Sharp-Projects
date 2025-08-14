@@ -53,3 +53,10 @@ public ActionResult Create(Insuree insuree)
 
     return View(insuree);
 }
+
+
+public ActionResult Admin()
+{
+    var insurees = db.Insurees.ToList();
+    return View(insurees);
+}
